@@ -1,0 +1,38 @@
+                {/ ． ．\}
+                ( (oo)   )
++---------oOOo---︶︶︶︶---oOOo---------------+
+
+
+
+     Version   :    0.0.1
+
+     LastChange:    2011-12-24 23:49:08
+
+
+                                   Lazy.monkey™
+                        lazymonkey.me@gmail.com
++-------------------------------Oooo-----------+
+
+===INSTALL===
+
+just for Unix-like(Mac, Linux):
++----------------------------------------------------+
+|1.do make                                           |
+|You can find a file 'Makefile',ok,do this:          |
+|   $ make                                           |
+|If have no accidents happend,It's ok!               |
+|2.run duckweed                                      |
+|   $ ./duckweed                                     |
++----------------------------------------------------+
+
+then open a web_browser,input url '127.0.0.1:9000'(the
+default port is '9000',you can see it in 'duckweed.h')
+if you see 'duckweed works',that's great!whee...you are
+lucky!
+
+===CONTENTS===
+
+duckweed
+       |
+       +---/www     "the default web dir"
+       +---REAME    "readme file"
